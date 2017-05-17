@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For Ultrasonic
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Ultrasonic		KEYWORD1
+isOutOfRange		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getDistance		KEYWORD2
+pulseIn			KEYWORD2
+writeTrigPin		KEYWORD2
+writeEchoPin		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CM			LITERAL1
+IN			LITERAL1
+CENTIMETER		LITERAL1
+INCH			LITERAL1
